@@ -1,0 +1,3 @@
+python3 VK/VK.py
+swipl search/start.pl
+python3 gui/Dash_proj.py

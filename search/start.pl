@@ -1,0 +1,1 @@
+?- consult('search/main.pl'), consult('postinput.pl'), search(), halt().
